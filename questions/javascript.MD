@@ -242,7 +242,7 @@ modifyArray(arr, function() {
 
 <details>
     <summary>
-        Answer
+        First I will explain the difference between NodeList and HTMLCollection . Both interfaces are collections of DOM nodes. They differ in the methods they provide and in the type of nodes they can contain. While a NodeList can contain any node type, an HTMLCollection is supposed to only contain Element nodes
     </summary>
 </details>
 
